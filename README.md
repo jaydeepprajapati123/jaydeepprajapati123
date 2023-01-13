@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Webflow, node js, and MongoDB.<br>🌱 I’m currently learning UI/UX and nest js.<br>💬 Ask me about jQuery and Javascript.
+🔭 I’m currently working with Webflow, node js, and MongoDB.<br>🌱 I’m currently learning UI/UX and react js.<br>💬 Ask me about jQuery and Javascript.
 
 
 ## 🌐 Socials:
